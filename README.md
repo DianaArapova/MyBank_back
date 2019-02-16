@@ -1,5 +1,7 @@
 ## Backend with admin panel for my bank
 
+Запуск приложения: node bin/www
+
 **Main page in admin panel**
 
 ![Image alt](https://github.com/DianaArapova/MyBank_back/blob/master/screens/screen1.png)
